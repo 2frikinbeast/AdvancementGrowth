@@ -6,7 +6,7 @@ This datapack requires BlazeandCave's Advancements Pack: https://www.planetminec
 # Installation 
 1. Download this datapack and the BlazeandCave's Advancements Pack (linked above).
 2. Unzip the BlazeandCave's Advancements Pack.
-3. Extract the AdvancementGrowth and bac_advancements folders into the `datapacks` folder of your Minecraft world.
+3. Extract the `AdvancementGrowth` and `bac_advancements` folders into the `datapacks` folder of your Minecraft world.
 4. Ensure both datapacks are enabled. This can be done with the `/datapack enable` command.
 5. Locate where in your Minecraft world you like to be the center of the world border.
 6. Run the command `/function adv_growth:init`
