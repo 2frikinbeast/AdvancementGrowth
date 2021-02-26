@@ -13,7 +13,7 @@ This datapack requires BlazeandCave's Advancements Pack: https://www.planetminec
 7. Enjoy!
 
 # Config
-The world border width is equal to the number of advancements you have achieved multiplied by `growthFactor`. `growthFactor` defaults to 3. You can change the `growthFactor` by running the command `/scoreboard players set @p growthFactor <insert number here>` (Do not set growthFactor to a number less than 1.)
+The world border width is equal to the number of advancements you have achieved multiplied by `growthFactor`. `growthFactor` defaults to 2. You can change the `growthFactor` by running the command `/scoreboard players set @p growthFactor <insert number here>` (Do not set growthFactor to a number less than 1.)
   
 # Notes
 Multiplayer support has not been tested. Use in multiplayer at your own risk.
